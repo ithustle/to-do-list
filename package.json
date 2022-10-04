@@ -1,0 +1,14 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "Projecto para aprender Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "Janice Manuella",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
